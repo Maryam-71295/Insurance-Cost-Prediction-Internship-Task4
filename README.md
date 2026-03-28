@@ -1,5 +1,6 @@
 # Insurance-Cost-Prediction-Internship-Task4
 🏥 Insurance Cost Prediction using Machine Learning
+
 📌 Introduction
 The healthcare industry generates vast amounts of data that can be leveraged to improve decision-making and cost estimation. Accurately predicting medical insurance charges is essential for insurance providers to manage risk and for individuals to better understand potential healthcare expenses. This project applies machine learning techniques to estimate insurance claim amounts based on personal and demographic attributes.
 
